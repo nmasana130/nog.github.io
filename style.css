@@ -1,0 +1,32 @@
+body{
+  color:#333 ;
+  font-family: "Yu Gothic";
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+
+}
+
+header{
+  background-color:#efefef;
+  padding-top: 32px;
+  padding-bottom:32px ;
+}
+
+.container
+{
+  /* background-color: blueviolet; */
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+.container img{
+align-items: center;
+}
+.works{
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
